@@ -6,7 +6,7 @@
 
 This is the easiest way to install it and it's recommended for clients.
 
-* Go to workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=805985384
+* Go to workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=2543522752
 * Click green Subscribe button or add it into your server collection.
 
 This will be enabled next time you launch game or server.
