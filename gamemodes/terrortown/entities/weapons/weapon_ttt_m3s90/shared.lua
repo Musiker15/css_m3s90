@@ -1,10 +1,10 @@
 --[[Author informations]]--
-SWEP.Author = "Zaratusa"
-SWEP.Contact = "http://steamcommunity.com/profiles/76561198032479768"
+SWEP.Author = "Musiker15"
+SWEP.Contact = "https://steamcommunity.com/id/Musiker15/"
 
 if SERVER then
 	AddCSLuaFile()
-	resource.AddWorkshop("253737175")
+	resource.AddWorkshop("2543522752")
 else
 	LANG.AddToLanguage("english", "m3s90_name", "M3S90")
 

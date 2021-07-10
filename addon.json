@@ -1,0 +1,6 @@
+{
+"title" : "CSS M3S90",
+"type" : "weapon",
+"tags" : "fun",
+"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
+}
